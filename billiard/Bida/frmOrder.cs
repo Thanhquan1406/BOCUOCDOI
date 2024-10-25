@@ -66,5 +66,29 @@ namespace Bida
             frm.Show();
             this.Close();
         }
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0 && e.ColumnIndex >= 0)
+            {
+                DataGridViewRow row = dataGridView1.Rows[e.RowIndex];
+
+                // Lấy số lượng hiện tại và tăng lên 1
+                int soLuongHienTai = Convert.ToInt32(row.Cells["SoLuong"].Value);
+                row.Cells["SoLuong"].Value = soLuongHienTai + 1;
+            }
+        }
+
+        private void btnDat_Click(object sender, EventArgs e)
+        {
+            frmBan frm = new frmBan(ban, nhanvien);
+            frm.Show();
+            this.Close(
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

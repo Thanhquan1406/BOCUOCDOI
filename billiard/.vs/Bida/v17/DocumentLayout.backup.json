@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\New folder\\billiard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|D:\\New folder\\billiard\\bida\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|d:\\new folder\\billiard\\bida\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|d:\\new folder\\billiard\\bida\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|D:\\New folder\\billiard\\bida\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|D:\\New folder\\billiard\\bida\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|D:\\New folder\\billiard\\bida\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|d:\\new folder\\billiard\\bida\\frmorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|D:\\New folder\\billiard\\qlhs.dto\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|solutionrelative:qlhs.dto\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|D:\\New folder\\billiard\\bida\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|D:\\New folder\\billiard\\bida.bus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,21 +50,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 319,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "frmBan.cs",
               "DocumentMoniker": "D:\\New folder\\billiard\\Bida\\frmBan.cs",
               "RelativeDocumentMoniker": "Bida\\frmBan.cs",
-              "ToolTip": "D:\\New folder\\billiard\\Bida\\frmBan.cs*",
-              "RelativeToolTip": "Bida\\frmBan.cs*",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAYwJsAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\New folder\\billiard\\Bida\\frmBan.cs",
+              "RelativeToolTip": "Bida\\frmBan.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAqwGIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T14:21:37.075Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmOrder.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\billiard\\Bida\\frmOrder.cs",
+              "RelativeDocumentMoniker": "Bida\\frmOrder.cs",
+              "ToolTip": "D:\\New folder\\billiard\\Bida\\frmOrder.cs [Design]*",
+              "RelativeToolTip": "Bida\\frmOrder.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:33:35.935Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -77,26 +90,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmOrder.cs [Design]",
+              "Title": "frmOrder.cs",
               "DocumentMoniker": "D:\\New folder\\billiard\\Bida\\frmOrder.cs",
               "RelativeDocumentMoniker": "Bida\\frmOrder.cs",
-              "ToolTip": "D:\\New folder\\billiard\\Bida\\frmOrder.cs [Design]",
-              "RelativeToolTip": "Bida\\frmOrder.cs [Design]",
+              "ToolTip": "D:\\New folder\\billiard\\Bida\\frmOrder.cs*",
+              "RelativeToolTip": "Bida\\frmOrder.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAtwFUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:33:35.935Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-24T10:33:37.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmOrder.cs",
-              "DocumentMoniker": "D:\\New folder\\billiard\\Bida\\frmOrder.cs",
-              "RelativeDocumentMoniker": "Bida\\frmOrder.cs",
-              "ToolTip": "D:\\New folder\\billiard\\Bida\\frmOrder.cs",
-              "RelativeToolTip": "Bida\\frmOrder.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwCMAAAAzAAAAAAAAAA==",
+              "Title": "frmOrder.Designer.cs",
+              "DocumentMoniker": "D:\\New folder\\billiard\\Bida\\frmOrder.Designer.cs",
+              "RelativeDocumentMoniker": "Bida\\frmOrder.Designer.cs",
+              "ToolTip": "D:\\New folder\\billiard\\Bida\\frmOrder.Designer.cs*",
+              "RelativeToolTip": "Bida\\frmOrder.Designer.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:33:37.482Z",
+              "WhenOpened": "2024-10-25T07:33:10.949Z",
               "EditorCaption": ""
             },
             {
@@ -105,23 +119,11 @@
               "Title": "frmBan.cs [Design]",
               "DocumentMoniker": "D:\\New folder\\billiard\\Bida\\frmBan.cs",
               "RelativeDocumentMoniker": "Bida\\frmBan.cs",
-              "ToolTip": "D:\\New folder\\billiard\\Bida\\frmBan.cs [Design]*",
-              "RelativeToolTip": "Bida\\frmBan.cs [Design]*",
+              "ToolTip": "D:\\New folder\\billiard\\Bida\\frmBan.cs [Design]",
+              "RelativeToolTip": "Bida\\frmBan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T14:21:35.21Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ORDER.cs",
-              "DocumentMoniker": "D:\\New folder\\billiard\\QLHS.DTO\\ORDER.cs",
-              "RelativeDocumentMoniker": "QLHS.DTO\\ORDER.cs",
-              "ToolTip": "D:\\New folder\\billiard\\QLHS.DTO\\ORDER.cs",
-              "RelativeToolTip": "QLHS.DTO\\ORDER.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:02:01.313Z"
             },
             {
               "$type": "Document",
